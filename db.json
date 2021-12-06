@@ -1,36 +1,4 @@
 {
-	"projects": [
-		{
-			"id": 1,
-			"project_name": "Project Alpha",
-			"project_manager": "Tony Stark",
-			"description": "Lorem ipsum dolor sit amet"
-		},
-		{
-			"id": 2,
-			"project_name": "Project Beta",
-			"project_manager": "Tony Stark",
-			"description": "Lorem ipsum dolor sit amet"
-		},
-		{
-			"id": 3,
-			"project_name": "Project Gamma",
-			"project_manager": "Tony Stark",
-			"description": "Lorem ipsum dolor sit amet"
-		},
-		{
-			"id": 4,
-			"project_name": "Project Simga",
-			"project_manager": "Tony Stark",
-			"description": "Lorem ipsum dolor sit amet"
-		},
-		{
-			"id": 5,
-			"project_name": "Project Theta",
-			"project_manager": "Tony Stark",
-			"description": "Lorem ipsum dolor sit amet"
-		}
-	],
 	"meprojects": [
 		{
 			"id": 1,
