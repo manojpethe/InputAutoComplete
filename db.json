@@ -25,8 +25,8 @@
 	"users": [
 		{
 			"id": 1,
-			"first_name": "Manoj",
-			"last_name": "Pethe"
+			"first_name": "manoj",
+			"last_name": "pethe"
 		},
 		{
 			"id": 2,
@@ -84,7 +84,7 @@
 			"long_feedback": "Feedback 1 for month November",
 			"evidence": "http://google.com",
 			"receiverid": "Jayram Joshi",
-			"giverid": "Manoj Pethe",
+			"giverid": "manoj pethe",
 			"status": "Given"
 		},
 		{
@@ -96,7 +96,7 @@
 			"long_feedback": "Feedback 1 for month November",
 			"evidence": "http://google.com",
 			"receiverid": "Jayram Joshi",
-			"giverid": "Manoj Pethe",
+			"giverid": "manoj pethe",
 			"status": "Given"
 		},
 		{
@@ -108,7 +108,7 @@
 			"long_feedback": "Feedback 1 for month November",
 			"evidence": "http://google.com",
 			"receiverid": "Jayram Joshi",
-			"giverid": "Manoj Pethe",
+			"giverid": "manoj pethe",
 			"status": "Given"
 		},
 		{
@@ -119,7 +119,7 @@
 			"short_feedback": "Feedback for month October",
 			"long_feedback": "Feedback for month October",
 			"evidence": "http://google.com",
-			"receiverid": "Manoj Pethe",
+			"receiverid": "manoj pethe",
 			"giverid": "Jayram Joshi",
 			"status": "Given"
 		},
@@ -131,7 +131,7 @@
 			"short_feedback": "Feedback for month October ",
 			"long_feedback": "Feedback for month October ",
 			"evidence": "http://google.com",
-			"receiverid": "Manoj Pethe",
+			"receiverid": "manoj pethe",
 			"giverid": "Jayram Joshi",
 			"status": "Given"
 		},
@@ -143,7 +143,7 @@
 			"short_feedback": "Feedback for month October",
 			"long_feedback": "Feedback for month October",
 			"evidence": "http://google.com",
-			"receiverid": "Manoj Pethe",
+			"receiverid": "manoj pethe",
 			"giverid": "Jayram Joshi",
 			"status": "Given"
 		},
@@ -155,7 +155,7 @@
 			"short_feedback": "Feedback for month October",
 			"long_feedback": "Feedback for month October",
 			"evidence": "http://google.com",
-			"receiverid": "Manoj Pethe",
+			"receiverid": "manoj pethe",
 			"giverid": "Jayram Joshi",
 			"status": "Given"
 		},
@@ -164,11 +164,11 @@
 			"id": 222,
 			"start_date": "2021-08-03T11:42:47.787Z",
 			"end_date": "2021-08-30T11:42:47.787Z",
-			"short_feedback": "Feedback for month August  Manoj Pethe",
-			"long_feedback": "Feedback for month August  Manoj Pethe",
+			"short_feedback": "Feedback for month August  manoj pethe",
+			"long_feedback": "Feedback for month August  manoj pethe",
 			"evidence": "http://google.com",
 			"receiverid": "Jayram Joshi",
-			"giverid": "Manoj Pethe",
+			"giverid": "manoj pethe",
 			"status": "Given"
 		},
 		{
@@ -176,11 +176,11 @@
 			"id": 25,
 			"start_date": "2021-08-07T11:42:47.787Z",
 			"end_date": "2021-08-14T11:42:47.787Z",
-			"short_feedback": "Feedback for month August  Manoj Pethe",
-			"long_feedback": "Feedback for month August  Manoj Pethe",
+			"short_feedback": "Feedback for month August  manoj pethe",
+			"long_feedback": "Feedback for month August  manoj pethe",
 			"evidence": "http://google.com",
 			"receiverid": "Siddesh Athalekar",
-			"giverid": "Manoj Pethe",
+			"giverid": "manoj pethe",
 			"status": "Given"
 		},
 		{
@@ -192,7 +192,7 @@
 			"long_feedback": "Feedback for month September",
 			"evidence": "http://google.com",
 			"receiverid": "Siddesh Athalekar",
-			"giverid": "Manoj Pethe",
+			"giverid": "manoj pethe",
 			"status": "Accepted"
 		},
 		{
@@ -204,7 +204,7 @@
 			"long_feedback": "Feedback for month September",
 			"evidence": "http://yahoo.com",
 			"receiverid": "Jayram Joshi",
-			"giverid": "Manoj Pethe",
+			"giverid": "manoj pethe",
 			"status": "Accepted"
 		},
 		{
@@ -216,7 +216,7 @@
 			"long_feedback": "Feedback for month January 2019",
 			"evidence": "http://yahoo.com",
 			"receiverid": "Amit Kulkarni",
-			"giverid": "Manoj Pethe",
+			"giverid": "manoj pethe",
 			"status": "Given"
 		},
 		{
@@ -227,7 +227,7 @@
 			"short_feedback": "Feedback for month December 2021",
 			"long_feedback": "Feedback for month December 2021",
 			"evidence": "http://altavista.com",
-			"receiverid": "Manoj Pethe",
+			"receiverid": "manoj pethe",
 			"giverid": "Jayram Joshi",
 			"status": "Need Clarification",
 			"comments": [
